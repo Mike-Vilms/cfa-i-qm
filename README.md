@@ -1,4 +1,4 @@
-# Quantitative methods
+# Quantitative Methods
 
 - **"Time Value of Money" Concept**
 - **"Stated Annual Interest Rate" ("Quoted Interest Rate") vs a "Periodic Rate"**
@@ -11,4 +11,7 @@
   - *[Table](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Present-and-Future-Value.md#ii-present-value)*
 - **Present Value of Series of Cash Flows**
   - *[Table](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Present-and-Future-Value.md#iv-present-value-of-an-ordinary-annuity)*
+---
+- Net Present Value
+- Internal Rate of Return
 ---

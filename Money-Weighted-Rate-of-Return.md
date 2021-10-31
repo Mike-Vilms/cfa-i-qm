@@ -6,6 +6,7 @@
 #### Limitations of Using Money-Weighted Rate of Return
 - The MWRR considers all the cash flows from the fund or contribution, including withdrawals
 - The MWRR is calculated by finding the rate of return that will set the **present values of all cash flows equal to the value of the initial investment**.
+  - The MWRR sets the initial value of an investment to equal future cash flows, such as dividends added, withdrawals, deposits, and sale proceeds.
 - Should an investment extend over several quarters, for example, the **MWRR lends more weight to the performance of the fund when it is at its largest—hence**, the description “**money-weighted**”
 
 #### Links

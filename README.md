@@ -12,6 +12,6 @@
 - **Present Value of Series of Cash Flows**
   - *[Table](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Present-and-Future-Value.md#iv-present-value-of-an-ordinary-annuity)*
 ---
-- Net Present Value
+- **[Net Present Value](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Net-Present-Value.md)**
 - Internal Rate of Return
 ---

@@ -12,9 +12,9 @@
 - **Present Value of Series of Cash Flows**
   - *[Table](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Present-and-Future-Value.md#iv-present-value-of-an-ordinary-annuity)*
 ---
-- **[Net Present Value](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Net-Present-Value.md)**
-- **[Internal Rate of Return](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Internal-Rate-of-Return.md)**
+- **[Net Present Value (NPV)](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Net-Present-Value.md)**
+- **[Internal Rate of Return (IRR)](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Internal-Rate-of-Return.md)**
 ---
-- **[Money-Weighted Rate of Return](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Money-Weighted-Rate-of-Return.md)**
-- **[Time-Weighted Rate of Return](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Time-Weighted-Rate-of-Return.md)**
+- **[Money-Weighted Rate of Return (MWRR)](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Money-Weighted-Rate-of-Return.md)**
+- **[Time-Weighted Rate of Return (TWRR)](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Time-Weighted-Rate-of-Return.md)**
 ---

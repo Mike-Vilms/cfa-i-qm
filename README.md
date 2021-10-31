@@ -13,5 +13,5 @@
   - *[Table](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Present-and-Future-Value.md#iv-present-value-of-an-ordinary-annuity)*
 ---
 - **[Net Present Value](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Net-Present-Value.md)**
-- Internal Rate of Return
+- **[Internal Rate of Return](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Internal-Rate-of-Return.md)**
 ---

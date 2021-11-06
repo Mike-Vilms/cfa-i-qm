@@ -28,3 +28,4 @@
   - The harmonic mean may be viewed as a special type of weighted mean in which an 
 observation’s weight is inversely proportional to its magnitude
 ---
+- Quartiles, Quintiles, Deciles, and Percentiles

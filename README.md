@@ -27,3 +27,4 @@
   - ![image](https://user-images.githubusercontent.com/85560091/140595304-8b5f9a5e-5a9a-47f0-9348-4a9b9f30f7bf.png) 
   - The harmonic mean may be viewed as a special type of weighted mean in which an 
 observation’s weight is inversely proportional to its magnitude
+---

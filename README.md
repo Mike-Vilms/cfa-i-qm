@@ -44,4 +44,9 @@ observation’s weight is inversely proportional to its magnitude
   - ![image](https://user-images.githubusercontent.com/85560091/140630480-4bf2496b-b69a-46d7-8a28-d03fa1849d47.png)
 - **Population Standard Deviation Formula**:
   - ![image](https://user-images.githubusercontent.com/85560091/140630519-350f3a33-927b-434c-acaa-3ef9e0a4e8cc.png)
- 
+- **Sample Variance**:
+  - ![image](https://user-images.githubusercontent.com/85560091/140646381-5bd82e68-786e-4236-a123-b8458c4432ef.png)
+- **Sample Standard Deviation**:
+  - ![image](https://user-images.githubusercontent.com/85560091/140646403-c478c438-7f8e-46da-b798-8ffecba6c373.png)
+
+

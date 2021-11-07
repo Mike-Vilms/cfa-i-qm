@@ -39,4 +39,4 @@ observation’s weight is inversely proportional to its magnitude
 - These are all measures of absolute dispersion. Absolute dispersion is the amount of variability present without comparison to any reference point or benchmark
 - **Range** = Maximum value – Minimum value
 - **The Mean Absolute Deviation**:
-  - ![image](https://user-images.githubusercontent.com/85560091/140630446-1ba10203-0395-4b3a-97ac-3aaa3dab77f8.png)
+  - ![image](https://user-images.githubusercontent.com/85560091/140630456-96a17bea-4361-40e3-aa7e-4b21b61049d7.png)

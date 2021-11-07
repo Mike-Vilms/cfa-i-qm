@@ -50,4 +50,5 @@ observation’s weight is inversely proportional to its magnitude
   - ![image](https://user-images.githubusercontent.com/85560091/140646403-c478c438-7f8e-46da-b798-8ffecba6c373.png)
 ---
 - **[Chebyshev’s Inequality](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Chebyshevs-Inequality.md)**
-
+- **Coefficient of Variation**:
+  - ![image](https://user-images.githubusercontent.com/85560091/140655550-bd16c0fa-f4c3-4453-8da0-886f891ab96f.png)

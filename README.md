@@ -29,3 +29,12 @@
 observation’s weight is inversely proportional to its magnitude
 ---
 - Quartiles, Quintiles, Deciles, and Percentiles
+---
+- Dispersion is the variability around the central tendency
+- Most common measures of dispersion: 
+  - range, 
+  - mean absolute deviation, 
+  - variance, and 
+  - standard deviation. 
+- These are all measures of absolute dispersion. Absolute dispersion is the amount of variability present without comparison to any reference point or benchmark
+- **Range** = Maximum value – Minimum value

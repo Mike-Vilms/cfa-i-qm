@@ -11,4 +11,4 @@
 ---
 
 ### Links
-- https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Sharpe-Ratio.md
+- https://corporatefinanceinstitute.com/resources/knowledge/finance/sharpe-ratio-definition-formula

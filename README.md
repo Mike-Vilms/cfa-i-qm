@@ -55,6 +55,7 @@ observation’s weight is inversely proportional to its magnitude
 --- 
 - **[Sharpe Ratio](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Sharpe-Ratio.md)**
 --- 
+
 #### Probability Concepts
-- **[Covariance](#Covariance)**
-- **[Correlation](#Correlation)**
+- **[Covariance](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Covariance.md)**
+- **[Correlation](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Correlation.md)**

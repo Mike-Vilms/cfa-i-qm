@@ -12,4 +12,4 @@
     - Covariance of returns is negative if, when the return on one asset is above its expected value, the return on the other asset tends to be below its expected value (an average inverse relationship between returns).
     - Covariance of returns is 0 if returns on the assets are unrelated.
     - Covariance of returns is positive when the returns on both assets tend to be on the same side (above or below) their expected values at the same time (an average positive relationship between returns).
-- The covariance of a random variable with itself (own covariance) is its own variance
+  - The covariance of a random variable with itself (own covariance) is its own variance

@@ -59,3 +59,4 @@ observation’s weight is inversely proportional to its magnitude
 #### Probability Concepts
 - **[Covariance](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Covariance.md)**
 - **[Correlation](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Correlation.md)**
+- **[Bayes’ Formula](#) #TODO**
